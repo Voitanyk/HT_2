@@ -1,3 +1,5 @@
 app.properties
 .idea/
 .gitignore
+# Project exclude paths
+/target/
