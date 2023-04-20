@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c2f62f-8743-450b-b7f2-929affc37f58" name="Changes" comment="final updates">
-      <change afterPath="$PROJECT_DIR$/src/main/resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76c2f62f-8743-450b-b7f2-929affc37f58" name="Changes" comment="final fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681996785286</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final fixes">
+      <created>1681997529454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681997529454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adjusted the test" />
     <MESSAGE value="updated the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the test" />
+    <MESSAGE value="final fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="final fixes" />
   </component>
 </project>
