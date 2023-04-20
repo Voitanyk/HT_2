@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c2f62f-8743-450b-b7f2-929affc37f58" name="Changes" comment="adjusted the test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GitHubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSteps.java" afterDir="false" />
+    <list default="true" id="76c2f62f-8743-450b-b7f2-929affc37f58" name="Changes" comment="updated the test">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PomXmlVersionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PomXmlVersionChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GitHubPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681992187342</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated the test">
+      <created>1681996223860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681996223860</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated the test">
+      <created>1681996419874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681996419874</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adjusted the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjusted the test" />
+    <MESSAGE value="updated the test" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the test" />
   </component>
 </project>
