@@ -3,7 +3,7 @@ import com.codeborne.selenide.SelenideElement;
 
 import static com.codeborne.selenide.Selenide.$;
 
-public class LoginPage {
+public class GitHubPage {
         private final SelenideElement loginField = $("#login_field");
         private final SelenideElement passwordField = $("#password");
         private final SelenideElement signInButton = $("#login > div.auth-form-body.mt-3 > form > div > input.btn.btn-primary.btn-block.js-sign-in-button");
@@ -31,8 +31,8 @@ public class LoginPage {
         public void clickOnTheFirstSearchResult(){
             searchResultList.click();
         }
-        public void openPomXmlFile(){
-            pomXmlFile.click();
-        }
+    public void openPomXmlFile(){
+        pomXmlFile.click();
+    }
 
     }
