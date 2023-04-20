@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c2f62f-8743-450b-b7f2-929affc37f58" name="Changes" comment="updated the test" />
+    <list default="true" id="76c2f62f-8743-450b-b7f2-929affc37f58" name="Changes" comment="final updates">
+      <change afterPath="$PROJECT_DIR$/src/main/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PomXmlVersionChecker">
+  <component name="RunManager" selected="TestNG.GitHubTest.testProjectLibraryVersion">
     <configuration name="PomXmlVersionChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PomXmlVersionChecker" />
       <module name="HT_2" />
@@ -74,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PomXmlVersionChecker" />
         <item itemvalue="TestNG.GitHubTest.testProjectLibraryVersion" />
+        <item itemvalue="Application.PomXmlVersionChecker" />
         <item itemvalue="TestNG.GitHubTest.loginToGithubAccount" />
       </list>
     </recent_temporary>
